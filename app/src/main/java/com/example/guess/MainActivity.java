@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn;
 
     final double d = Math.random();
-    final int rn = (int)(d*10000);
+    final int rn = (int)(d*1000);
 
     int in;
 
